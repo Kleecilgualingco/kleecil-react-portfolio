@@ -1,0 +1,39 @@
+
+#education .card{
+border-radius: 55px;
+}
+#education .card img{
+    size: 10%;
+    }
+#contact_1{
+background: linear-gradient(to right, hsla(125, 96%, 49%, 0.918), rgba(246, 248, 247, 0.884));
+padding-top: 5%;
+}
+#contact_1 #info2 .card img:hover{
+    width: 200px;
+    align-self: center;
+    transition: 1s;
+
+  }
+  #contact_1 #info2{
+    background: linear-gradient(to right, hsla(150, 9%, 91%, 0.829), rgba(18, 231, 11, 0.884));
+  }
+  #contact_1 #info2 img {
+    width: 50px;
+    align-self: center;
+  }
+  #contact_1 #info2 .card{
+    background: linear-gradient(to right, hsla(150, 9%, 91%, 0.829), rgba(18, 231, 11, 0.884));
+  }
+  #contact_1 #info2 .card img{
+    width: 130px;
+  }
+  #contact_1 #info2 h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-self: center;
+    font-size: 100%;
+  }
+  #contact_1 #info2 .card h2{
+    font-family: fantasy;
+    color: rgba(248, 7, 188, 0.719);
+  }

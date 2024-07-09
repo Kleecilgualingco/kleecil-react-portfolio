@@ -1,0 +1,84 @@
+
+  #about img {
+    width: 100px;
+    border-radius: 20px;
+}
+#ab{
+    background: linear-gradient(to right, hsla(125, 96%, 49%, 0.918), rgba(246, 248, 247, 0.884));
+    padding-top: 5%;
+    }
+#about-info {
+    min-height: 10vh;
+}
+#education1{
+    background: linear-gradient(to right, hsla(103, 96%, 49%, 0.918), rgba(246, 248, 247, 0.884));
+}
+#education1 .card{
+    background: linear-gradient(to right, hsla(104, 10%, 70%, 0.918), rgba(2, 221, 38, 0.884));
+    border-radius: 50%;
+}
+#info .row .card{
+  background: linear-gradient(to right, hsla(103, 96%, 49%, 0.918), rgba(246, 248, 247, 0.884));
+height: 90%;
+}
+#carton {
+  background: linear-gradient(to right, hsl(103, 96%, 49%), rgba(246, 248, 247, 0.884));
+    background-size: cover;
+}
+
+
+#carton .box {
+    margin-top: 10px;
+    width: 250px;
+}
+
+#carton .text {
+  text-align: justify;
+  font-size: 20px;
+}
+
+#carton img {
+    width: 250px;
+    border-radius: 50%;
+}
+
+#carton .icons {
+    font-size: 20px;
+}
+
+
+
+.footer_section {
+    background-color: #222831;
+    color: #ffffff;
+    text-align: center;
+}
+
+.footer_section .footer-info {
+    text-align: center;
+}
+
+.footer_section .footer-info p {
+    color: #ffffff;
+    margin: 0;
+}
+
+.footer_section .footer-info p a {
+    color: inherit;
+    text-decoration: none;
+}
+
+/*  */
+
+.container2 {
+    position: relative;
+    width: 100%;
+    height: 50vh;
+    overflow: hidden;
+}
+
+
+/*  */
+ 
+  
+ 
